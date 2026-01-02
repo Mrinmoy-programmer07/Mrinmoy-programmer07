@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Mrinmoy Das
 
 # 💫 About Me:
- 🎓I'm a first-year CSE undergrad, passionate about coding <br>and always eager to learn.<br> 🧑🏻‍💻Currently, I'm diving into full-stack web development and Python.<br> 🤝I'm looking for Python-based full-stack and open-source projects to collaborate on, especially those with real-world impact.<br> ❔Feel free to ask me about my work and projects.<br>⚡I bring energy and enthusiasm to everything I code!"
+ 🎓I'm a second-year CSE undergrad, passionate about coding <br>and always eager to learn.<br> 🧑🏻‍💻Currently, I'm diving into full-stack web development and Java.<br> 🤝I'm looking for open-source projects to collaborate on, especially those with real-world impact.<br> ❔Feel free to ask me about my work and projects.<br>⚡I bring energy and enthusiasm to everything I code!"
 
 
 ## 🌐 Socials:
